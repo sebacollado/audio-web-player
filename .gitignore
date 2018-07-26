@@ -1,0 +1,90 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/music/Dropgun - Together As One - Radio Edit.mp3
+/music/Sam Feldt - Been A While - Madison Mars Remix Edit.mp3
+/music/Martin Garrix - Now That I've Found You (feat. John & Michel).mp3
+/music/Tritonal - Rewind.mp3
+/music/Alan Walker - Faded - Dash Berlin Remix.mp3
+/music/R3hab - Care (Ft. Madi).mp3
+/music/PANTyRAiD - Wanting Moves.mp3
+/music/Galantis - No Money.mp3
+/music/Alvita - Darkest Hour.mp3
+/music/JETFIRE - I Feel.mp3
+/music/Michael Calfan - Brothers.mp3
+/music/AREA21 - Spaceships.mp3
+/music/Two Friends - Forever.mp3
+/music/Disco Killerz - Stellar - Original Mix.mp3
+/music/Zonderling - Keep On.mp3
+/music/Tritonal - Blackout - Madison Mars Radio Mix.mp3.jpg
+/music/The Chainsmokers - Don't Let Me Down - Hardwell & Sephyx Remix.mp3
+/music/Boys Noize - Birthday.mp3
+/music/Kaaze - Tell Me.mp3
+/music/R3hab - Freak - VIP Remix Edit.mp3
+/music/Calvin Harris - This Is What You Came For.mp3
+/music/Disco Fries - Born Ready - Halogen Radio Edit.mp3
+/music/Mihka! - WiFi Tears.mp3
+/music/Tujamo - Drop That Low (When I Dip).mp3
+/music/Birdy - Keeping Your Head Up - Don Diablo Remix [[]Radio Edit].mp3
+/music/Rich Edwards - Where I'll Be Waiting (feat. Cozi Zuehlsdorff).mp3
+/music/Conro - City Lights (feat. Royal).mp3
+/music/Don Diablo - Chemicals - Dexter Remix.mp3
+/music/Swanky Tunes - Entertain Us.mp3
+/music/Boys Noize - 2 Live.mp3
+/music/Halsey - Colors - Audien Remix.mp3
+/music/Marcus Schössow - 1994.mp3
+/music/Rain Man - Bring Back the Summer (feat. OLY).mp3
+/music/Gorgon City - All Four Walls.mp3
+/music/Crystal Lake - Into the Sunset - Headhunterz Radio Edit.mp3
+/music/Various Artists - #electroNOW.mp3
+/music/Toby Green - Everytime.mp3
+/music/Rodrigo Deem - Anything.mp3
+/music/Don Diablo - Tonight.mp3
+/music/Castell - You Got It Wrong (Radio Edit).mp3
+/music/Matvey Emerson - I Know You Care - Alexander Popov Remix.mp3
+/music/Breathe Carolina - Lovin.mp3
+/music/3LAU - Is It Love - Arty Remix.mp3
+/music/Steve Aoki - Can't Go Home - Radio Edit.mp3
+/music/Troye Sivan - YOUTH - Gryffin Remix.mp3
+/music/W&W - How Many.mp3
+/music/Ftampa - Need You.mp3
+/music/Gareth Emery - Reckless.mp3
+/music/Andrea Oliva - Decomposing.mp3
+/music/Dusky - Ingrid Is A Hybrid.mp3
+/music/Sem Vox - Get It Up (DLDK Amsterdam 2016 Anthem).mp3
+/music/Pixl - Sadbot.mp3
+/music/Andrew Rayel - Once In A Lifetime Love.mp3
+/music/Jay Hardway - Stardust.mp3
+/music/Tritonal - Blackout - Madison Mars Radio Mix.mp3
+/music/DubVision - Million Miles.mp3
+/music/Mako - Into The Sunset.mp3
+/music/ID - Turn Me On.mp3
+/music/Avicii - Broken Arrows.mp3
+/music/Linkin Park - Final Masquerade [[]Official Music Video].mp3
+/music/Avicii - Waiting For Love.mp3
+/music/Linkin Park - CASTLE OF GLASS (featured in Medal of Honor Warfighter).mp3
+/music/Linkin Park - Leave Out All The Rest.mp3
