@@ -1,7 +1,7 @@
 # Reproductor Audio Web
 
 ## Proyecto
-Proyecto de prácticas para la asignatura **Sistemas Multimedia** en el curso 2015/16, desarrollado por Sebastián Collado Montañez y Jaime Collado Montañez.
+Proyecto de prácticas para la asignatura **Sistemas Multimedia** en el curso 2015/16, desarrollado por Sebastián Collado y Jaime Collado.
 
 Consiste en el diseño, implementación y despliegue de una aplicación multimedia para la **reproducción de audio** mediante el uso de **tecnologías web** para su uso multiplataforma gracias a su diseño adaptativo.
 
